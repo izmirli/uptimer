@@ -1,0 +1,10 @@
+bump2version
+wheel
+watchdog
+tox
+coverage
+Sphinx
+twine
+pytest
+pytest-mock
+sphinx-click
